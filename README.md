@@ -1,9 +1,11 @@
 # libpng
 
-Prerequisite:
-	- Have an internet connection
-	- Launch docker toolbox on windows
+##Prerequisite
+* Have an internet connection
+* Launch docker toolbox on windows
 
+
+##How it works
 To run the script just lunch 'run_docker.bat'
 A picture_modified.png file should be created 
 
